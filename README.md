@@ -1,4 +1,4 @@
-# DevFeed
+# StockManager
 
 Este é o repositório com o código fonte desenvolvido para o teste de Desenvolvedor Front-End na Kronoos, onde criei um app para gerenciamentos de produtos em estoque utilizando React, Axios, Shadcn, Tailwind CSS e Storybook
 
