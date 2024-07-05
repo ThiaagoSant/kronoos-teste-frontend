@@ -1,25 +1,33 @@
-## Teste de Vaga Frontend Kronoos
+# DevFeed
 
-Para este teste, você deve criar uma aplicação React contendo 4 componentes do Shadcn customizados à sua escolha. Cada componente deve ser bem documentado no Storybook, incluindo todos os comportamentos e interações disponíveis. Além disso, você deve seguir as seguintes regras:
+Este é o repositório com o código fonte desenvolvido para o teste de Desenvolvedor Front-End na Kronoos, onde criei um app para gerenciamentos de produtos em estoque utilizando React, Axios, Shadcn, Tailwind CSS e Storybook
 
-### Tecnologias à serem utilizadas:
-* React
-* Typescript
-* Vite
-* Tailwind CSS
-* Shadcn
-* Storybook
+## Instalação
 
-### Instruções:
+Você precisará ter apenas o [NodeJS](https://nodejs.org) instalado na sua máquina, e após isso, clonar este repositório:
 
-1. Faça um fork deste repositório.
-2. Desenvolva a aplicação conforme as especificações acima.
-3. Documente cada componente no Storybook.
-4. Utilize Typescript com as devidas interfaces e tipagens.
-5. Utilize Tailwind CSS para estilização.
+```sh
+  $ git clone https://github.com/ThiaagoSant/kronoos-teste-frontend.git
+```
 
-### Entrega:
+Depois disso, acesse a pasta com o repositório e instale as dependências executando o seguinte comando:
 
-Assim que concluir o teste, retorne para nós informando a quantidade de horas trabalhadas no teste com o link do seu fork para que possamos visualizá-lo.
+```sh
+  $ npm install # ou yarn install
+```
 
-Boa sorte!
+## Executando a aplicação
+
+Execute o comando a baixo para inicializar o servidor de desenvolvimento:
+
+```sh
+  $ npm run dev # ou yarn dev
+```
+
+## Executando o Storybook
+
+Execute o comando a baixo para inicializar o Storybook:
+
+```sh
+  $ npm run storybook
+```
